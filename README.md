@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Budget Tracker](https://github.com/ShivamY23/bugdet-api)
 
-- 🌱 I’m currently learning **Javascript, Kotlin, and GenAI**
+- 🌱 I’m currently learning **Javascript, React Native, and React**
 
 - 💬 Ask me about **react,react-native**
 
 - 📫 How to reach me **mailtoshivam331@gmail.com**
 
-- ⚡ Fun fact **Don't have any!**
+- ⚡ Fun fact **I like to watch anime and to learn something new!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
